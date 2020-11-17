@@ -1,3 +1,7 @@
+package test2;
+
+import test2.Person;
+
 public class AAA {
     public static void main(String[] args) {
         Person name_1 = new Person();
